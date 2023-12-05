@@ -1,4 +1,4 @@
-# ECZalaya
+# 👋 ECZalaya
 
 ## 🌱 Currently learning:
 - Final year student in **DAM** (Multiplatform Application Development).
