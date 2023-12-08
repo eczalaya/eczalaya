@@ -7,12 +7,12 @@
 </ul>
 
 <h1 align='center'>🚀 Current projects:</h1>
-<ul align='center'>
+<ul style='list-style: none;' align='center'>
     <li>Creating my own Task Manager using Java and SQL.</li>
     <li>Creating and modifying FiveM scripts.</li>
 </ul>
 
 <h1 align='center'>📊 GitHub stats:</h1>
-<a href="https://github.com/eczalaya">
+<a align='center' href="https://github.com/eczalaya">
     <img align='center' src="https://github-readme-stats.vercel.app/api?username=eczalaya&layout=compact&theme=react&hide_border=true&show_icons=true"/>
 </a>
