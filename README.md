@@ -13,6 +13,8 @@
 </div>
 
 <h1 align='center'>📊 GitHub stats:</h1>
-<a align='center' href="https://github.com/eczalaya">
-    <img align='center' src="https://github-readme-stats.vercel.app/api?username=eczalaya&layout=compact&theme=react&hide_border=true&show_icons=true"/>
-</a>
+<div align='center'>
+    <a href="https://github.com/eczalaya">
+        <img src="https://github-readme-stats.vercel.app/api?username=eczalaya&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+    </a>
+</div>
