@@ -17,7 +17,10 @@
     <a href="https://github.com/eczalaya">
         <img src="https://github-readme-stats.vercel.app/api?username=eczalaya&layout=compact&theme=react&hide_border=true&show_icons=true"/>
     </a>
-    <br>
+</div>
+
+<h1 align='center'>💪 Languages:</h1>
+<div align='center'>
     <a href="https://github.com/eczalaya">
         <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eczalaya&layout=compact&theme=github_dark&hide_border=true%22'/>
     </a>
