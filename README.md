@@ -1,16 +1,16 @@
 <h1 align='center'>🌱 Currently learning:</h1>
-<ul align='center'>
-    <li>Final year student in DAM (Multiplatform Application Development).</li>
-    <li>Diving deep into Java, with the goal of mastering the language.</li>
-    <li>Learning SQL and its connection with other programming languages.</li>
-    <li>Exploring the art of developing interfaces with Angular.</li>
-</ul>
+<div align='center'>
+    <p>Final year student in DAM (Multiplatform Application Development).</p>
+    <p>Diving deep into Java, with the goal of mastering the language.</p>
+    <p>Learning SQL and its connection with other programming languages.</p>
+    <p>Exploring the art of developing interfaces with Angular.</p>
+</div>
 
 <h1 align='center'>🚀 Current projects:</h1>
-<ul style='list-style: none;' align='center'>
-    <li>Creating my own Task Manager using Java and SQL.</li>
-    <li>Creating and modifying FiveM scripts.</li>
-</ul>
+<div align='center'>
+    <p>Creating my own Task Manager using Java and SQL.</p>
+    <p>Creating and modifying FiveM scripts.</p>
+</div>
 
 <h1 align='center'>📊 GitHub stats:</h1>
 <a align='center' href="https://github.com/eczalaya">
