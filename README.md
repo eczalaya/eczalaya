@@ -22,6 +22,6 @@
 <h1 align='center'>💪 Languages:</h1>
 <div align='center'>
     <a href="https://github.com/eczalaya">
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eczalaya&layout=compact&theme=github_dark&hide_border=true%22'/>
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eczalaya&hide_border=true'/>
     </a>
 </div>
