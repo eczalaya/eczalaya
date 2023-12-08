@@ -1,15 +1,8 @@
-<h1 align='center'>🌱 Currently learning:</h1>
+<h1 align='center'>🌱 About me:</h1>
 <div align='center'>
-    <p>Final year student in DAM (Multiplatform Application Development).</p>
-    <p>Diving deep into Java, with the goal of mastering the language.</p>
-    <p>Learning SQL and its connection with other programming languages.</p>
-    <p>Exploring the art of developing interfaces with Angular.</p>
-</div>
-
-<h1 align='center'>🚀 Current projects:</h1>
-<div align='center'>
-    <p>Creating my own Task Manager using Java and SQL.</p>
-    <p>Creating and modifying FiveM scripts.</p>
+    <p>
+        I am a final year student in Multiplatform Application Development (DAM) who is diving deep into Java with the goal of mastering the language. I am also learning SQL and its connection with other programming languages, as well as exploring the art of developing interfaces with Angular.
+    </p>
 </div>
 
 <h1 align='center'>📊 GitHub stats:</h1>
